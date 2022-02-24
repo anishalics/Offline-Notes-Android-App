@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First Sem DCOM Solutions</string>
+    <string name="engineering_drawing"><b>NOTE : </b>\n\t1.Engineering Drawing is not an important subject.\n\n\t2.The examination paper is made by the teacher who teach you Engineering Drawing.\n\n\t3.Your Engineering Drawing\'s exam is done in your homecenter(Your College).</string>
+    <string name="description">All Top Important Question\'s Answers</string>
+    <string name="paper1">Paper 1</string>
+    <string name="paper2">Paper 2</string>
+    <string name="important">All Important Notes</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22291666666666668" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_chemistry.xml" value="0.1" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_computerfundamentals.xml" value="0.1" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_cprogramming.xml" value="0.1" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_engineeringdrawing.xml" value="0.1" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_english.xml" value="0.20677083333333332" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_info.xml" value="0.20677083333333332" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_mathematics.xml" value="0.20677083333333332" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_nepali.xml" value="0.20677083333333332" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_notes.xml" value="0.12545289855072464" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_physics.xml" value="0.20677083333333332" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_physics1.xml" value="0.10055724417426545" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_physics2.xml" value="0.1" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_physics3.xml" value="0.20677083333333332" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/layout/activity_physicsentry.xml" value="0.20677083333333332" />
+        <entry key="..\:/Program Files/Android/AndroidStudioProjects/FirstSemDCOMSolutions/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20729166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
